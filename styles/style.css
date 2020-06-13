@@ -169,7 +169,7 @@
   font-size: 18px;
 }
 
-.feinman {
+.feynman {
   min-height:  790px;
   background-color: #f2f2f2;
   background-image: url('../images/feynman.png');
@@ -182,7 +182,7 @@
   align-items: center;
 }
 
-.feinman__title {
+.feynman__title {
   margin: 100px 0 0;
   width: 648px;
   line-height: 1.15;
@@ -190,14 +190,14 @@
   text-align: center;
 }
 
-.feinman__subtitle {
+.feynman__subtitle {
   margin: 70px 0 0;
   line-height: 51px;
   font-size: 36px;
   text-align: center;
 }
 
-.feinman__link {
+.feynman__link {
   position: absolute;
   top: 50%;
   right: 48px;

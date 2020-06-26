@@ -1,4 +1,5 @@
 @import url(./__triangle/kaufman__triangle.css);
+@import url(./__triangle/_animation/kaufman__triangle_animation_rotation.css);
 @import url(./__section-title/kaufman__section-title.css);
 
 .kaufman {

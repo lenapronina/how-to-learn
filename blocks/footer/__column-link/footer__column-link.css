@@ -3,6 +3,7 @@
   text-decoration: none;
   line-height: 30px;
   font-size:18px;
+  transition: opacity .4s ease-in-out;
 }
 
 .footer__column-link:hover {
